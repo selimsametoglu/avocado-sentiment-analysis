@@ -1,2 +1,2 @@
 # avocado-sentiment-analysis
-dutch sentiment analysis pipeline written by me
+Dutch sentiment analysis pipeline, specifically written for text data based on Twitter
